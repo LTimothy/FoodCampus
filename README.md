@@ -1,4 +1,4 @@
-#imHungry
+# imHungry
 
 ## Inspiration
 As Berkeley students we are always prioritizing our work over our health! Students often don't have as much time to go buy food. Why not pick a food for other students while buying your own food and make a quick buck? Or perhaps, place an order with a student who was already planning to head your way after buying some food for themselves? This revolutionary business model enables students to participate in the food delivery business while avoiding the hassles that are associated with the typical food delivery app. Our service does not require students to do anything differently than what they already do! 
